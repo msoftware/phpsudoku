@@ -1,0 +1,17 @@
+V 2.0
+- Stopuhr austauschen
+- Sudoku sharen (Mail, Facebook, Twitter, etc.)
+- Sudoku per ID aufrufen (Für das Verlinken von konkreten Rätseln)
+- Einstellen des Schwierigkeitsgrades
+- Testen in unterschiedlichen Browsern
+- Sudoku Stand speichern (Cloud)
+- Sudoku Stand drucken
+- Tipp abgeben (wie geht es weiter?)
+
+- Doku: 
+  - Spielanleitung
+  - Eingabe mehrere Ziffern in ein Feld
+  - Funktionen (Timer, Prüfung, Lösung, etc.)
+
+Roadmap
+- Als Android App
