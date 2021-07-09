@@ -1,4 +1,4 @@
-<?
+<?php
 /**
  *
  * Online Sudoku by Michael Jentsch

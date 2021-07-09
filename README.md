@@ -1,4 +1,6 @@
-phpSudoku 2.0 - Copyright 2007 - 2014 by Michael Jentsch (m.jentsch@web.de)
+# phpSudoku 2.1 
+
+Copyright 2007 - 2021 by Michael Jentsch (jentsch.michael@gmail.com)
 
 # Licenses:
 
@@ -21,7 +23,7 @@ http://www.fontspace.com/wlm-fonts/lets-go-digital
 
 # Roadmap:
 
-- Multi Language Support (php Sudoku 2.0 is german)
+- Multi Language Support (php Sudoku 2 is german)
 - Multi Player Sudoku (Game Server)
 - Split sudokus into easy, med., hard
 - Save Sudoku into local storage
