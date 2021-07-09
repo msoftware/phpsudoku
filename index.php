@@ -31,7 +31,7 @@ require_once "sudoku.php";
 </div>
 
 <div class="bubble">
-	<div class="rectangle"><h2>PHP Sudoku V2.0</h2></div>
+	<div class="rectangle"><h2>PHP Sudoku V2.1</h2></div>
 <div class="triangle-l"></div>
 <div class="triangle-r"></div>
 <div class="info">
